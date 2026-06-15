@@ -22,3 +22,5 @@ Para rodar o aplicativo inicie o servidor: npm run dev
 Insira a url informada ao final do comando no seu navedor de internet
 Professor Thiago.
 Alunos: Alessandra De Jesus e Arthur Morais
+
+![imagem inicial](screen.png)
