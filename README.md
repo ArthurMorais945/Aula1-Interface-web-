@@ -20,7 +20,10 @@ Prerequisitos: Node.js
 Instale as dependências com npm: npm install
 Para rodar o aplicativo inicie o servidor: npm run dev
 Insira a url informada ao final do comando no seu navedor de internet
+
+
 Professor Thiago.
 Alunos: Alessandra De Jesus e Arthur Morais
 
-![imagem inicial](screen.png)
+![imagem inicial](![screen](https://github.com/user-attachments/assets/5c63731a-d796-4d52-9c44-0b648e0b7352)
+)
