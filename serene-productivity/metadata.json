@@ -1,0 +1,6 @@
+{
+  "name": "Serene Productivity",
+  "description": "Um aplicativo de produtividade minimalista e consciente para organizar tarefas por categorias, acompanhar estatísticas semanais e manter o foco.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
